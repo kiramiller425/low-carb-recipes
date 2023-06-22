@@ -55,7 +55,7 @@
 }
 
 .lcr-header {
-	background-color: var(--lcr-background-header-color);
+    background: var(--lcr-background-header-color);
 	border: var(--lcr-gap-medium-size) solid var(--lcr-border-third-color);
 	border-radius: var(--lcr-gap-large-size);
     padding: var(--lcr-gap-small-size) var(--lcr-gap-medium-size);
@@ -239,6 +239,8 @@
     }
     
     .lcr-header {
+        background: var(--lcr-background-header-color) url("../images/leafavocado.svg") no-repeat 97% 0%;
+        background-size: 195px;
         padding: var(--lcr-gap-medium-size) var(--lcr-gap-large-size);
         text-align: left;
     }
@@ -271,6 +273,8 @@
     }
     
     .lcr-header {
+        background: var(--lcr-background-header-color) url("../images/leafavocado.svg") no-repeat 99% 0%;
+        background-size: 230px;
         padding: var(--lcr-gap-large-size) var(--lcr-gap-huge-size);
         text-align: left;
     }
