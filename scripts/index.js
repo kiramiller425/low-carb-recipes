@@ -1,32 +1,18 @@
+/**
+ * This document contains the JS for the low carb recipe site. Comments are in JSDoc form.
+ *
+ * @author: Kira Miller
+ */
+
+// This holds all the recipe data after it has been loaded:
 var loadedRecipes;
 
-
-// TODO:
-// maybe fill global arrays with data ? or better: global objects to populate html when clicked on in the list
-// fetch json
-// parse data
-// populate recipe list
-// make recipe selection populate card
-// populate recipe card and nutrition facts
-
-
+/**
+ * This does the initial load of all the recipes.
+ */
 function loadAllRecipes() {
 
     let jsonData;
-
-
-    /*
-// doesn't work
-    let allRecipeJsonfileContents;
-    
-    let file = new File(bits,"allRecipes.json");
-  const reader = new FileReader();
-  reader.addEventListener('load', () => {
-    allRecipeJsonfileContents = reader.result;
-  });
-  reader.readAsText(file);
-
-*/
 
     // TODO: fix this. Currently it gives a CORS error:
 /*
@@ -100,10 +86,16 @@ fetch('allRecipes.json')
     
 }
 
+/**
+ * This is a utility method for setting the inner html to the text string.
+ */
 function setToText(htmlQuerySelector, textForInnerHTML) {
     (document.querySelector(htmlQuerySelector)).innerHTML = textForInnerHTML;
 }
 
+/**
+ * This is a utility method for setting the inner html to a collection of LIs representing each item in the list of strings.
+ */
 function setToList(htmlQuerySelector, listForInnerHTML) {
     const htmlElement = document.querySelector(htmlQuerySelector);
     htmlElement.innerHTML = "";
@@ -115,6 +107,9 @@ function setToList(htmlQuerySelector, listForInnerHTML) {
     }
 }
 
+/**
+ * This switches the recipe to the one passed in, changing out the ingredients, directions, nutrition facts, etc. to the new one's information.
+ */
 function switchToRecipe(whichRecipe) {
     
     // Set the recipe card's title:

@@ -1,3 +1,14 @@
+@charset "utf-8";
+
+/**
+ * index.css
+ *
+ * Version: 1.3
+ * Author: Kira Miller
+ * Notes:
+ *     This document contains the custom styles for this project. 
+ *     BEM for naming conventions: http://getbem.com/naming/
+ */
 
 /* Variables: */
 
@@ -19,6 +30,10 @@
     --lcr-text-medium-size: 32px;
     --lcr-text-large-size: 40px;
     --lcr-text-huge-size: 64px;
+    
+    --lcr-text-light-weight: 500;
+    --lcr-text-medium-weight: 700;
+    --lcr-text-heavy-weight: 900;
     
     --lcr-gap-small-size: 8px;
     --lcr-gap-medium-size: 16px;
@@ -64,7 +79,7 @@
 
 .lcr-header__title {
     font-size: var(--lcr-text-medium-size);
-    font-weight: 700;
+    font-weight: var(--lcr-text-medium-weight);
 }
 
 .lcr-header__author {
@@ -83,7 +98,7 @@
 
 .lcr-recipe-links-list__title {
     font-size: var(--lcr-text-small-size);
-    font-weight: 700;
+    font-weight: var(--lcr-text-medium-weight);
     margin: var(--lcr-gap-medium-size);
 }
 
@@ -131,7 +146,7 @@
 }
 
 .lcr-recipe-card__subsection-header {
-    font-weight: 700;
+    font-weight: var(--lcr-text-medium-weight);
 }
 
 .lcr-recipe-card__notes {
@@ -170,11 +185,11 @@
 }
 
 .lcr-nutrition__cell--bolden {
-    font-weight: 700;
+    font-weight: var(--lcr-text-medium-weight);
 }
 
 .lcr-nutrition__cell--unbolden {
-    font-weight: 500;
+    font-weight: var(--lcr-text-light-weight);
 }
 
 .lcr-nutrition__cell--indent {
@@ -187,23 +202,23 @@
 
 .lcr-nutrition__title {
     font-size: var(--lcr-text-small-size);
-    font-weight: 900;
+    font-weight: var(--lcr-text-heavy-weight);
 }
 
 .lcr-nutrition__calories-label {
     font-size: var(--lcr-text-small-size);
-    font-weight: 700;
+    font-weight: var(--lcr-text-medium-weight);
 }
 
 .lcr-nutrition__calories-value {
     font-size: var(--lcr-text-small-size);
-    font-weight: 700;
+    font-weight: var(--lcr-text-medium-weight);
     text-align: right;
 }
 
 .lcr-nutrition__daily-v-label {
     font-size: var(--lcr-text-tiny-size);
-    font-weight: 700;
+    font-weight: var(--lcr-text-medium-weight);
     text-align: right;
 }
 
@@ -247,7 +262,7 @@
 
     .lcr-header__title {
         font-size: var(--lcr-text-large-size);
-        font-weight: 700;
+        font-weight: var(--lcr-text-medium-weight);
         line-height: var(--lcr-gap-large-size);
     }
 
@@ -281,7 +296,7 @@
 
     .lcr-header__title {
         font-size: var(--lcr-text-large-size);
-        font-weight: 700;
+        font-weight: var(--lcr-text-medium-weight);
         line-height: var(--lcr-gap-large-size);
     }
     
