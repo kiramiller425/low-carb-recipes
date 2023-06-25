@@ -290,4 +290,9 @@
         line-height: var(--lcr-gap-large-size);
     }  
     
+    /* TODO: fix after I add new recipes */
+    .lcr-recipe-links-list {
+        min-width: 300px;
+    }
+    
 }
