@@ -253,6 +253,42 @@
                 "caffeineMilligrams":"0mg"
             }
         },{        
+            "title":"Moroccan Salad",
+            "notes":"based on <a href=\'http://www.4kidsnus.com/blogtest/recipe/2008/11/19/disney_recipe_moroccan_cucumber_and_toma_9\'>somewhere</a> on the internet. This one is a favorite among our friends. It goes great with small bread slices (especially the almond bread). Total creation time: about 1 hour. This recipe makes about 3.75 cups. Makes a yummy snack or side dish.",
+            "ingredients": ["1.5 cups fresh cucumber peeled, diced into 0.5 cm cubes (about 1 cucumber)", "1.5 cups fresh tomatoes diced into 0.5 cm cubes (about 2 tomatoes)","0.5 cups fresh onion diced into 0.5 cm cubes (about 1 onion)", "1 teaspoon finely chopped parsely (dried is fine)", "1 teaspoon finely chopped cilantro (dried is fine)", "2 Tablespoons extra virgin olive oil", "2 Tablespoons white vinegar", "0.25 teaspoon salt"],
+            "tools": ["cutting board", "knife", "peeler", "big bowl with lid", "measuring spoons", "measuring cups", "refrigerator"],
+            "directions": ["Dice cucumber and tomatoes and onion into small cubes.", "Finely chop parsley and cilantro if needed or use dried spices instead.", "Mix all ingredients together in a big bowl. put a lid on the bowl.", "Leave in refrigerator for at least an hour (longer = better).", "Serve cold. Best eaten with keto bread."],
+            "nutrition":{
+                "servingSize":"1/4 cup (15 servings total)",
+                "calories":"24",
+                "totalFatGrams":"2g",
+                "totalFatPercent":"?%",
+                "saturatedFatGrams":"0.3g",
+                "saturatedFatPercent":"?%",
+                "transFatGrams":"0g",
+                "polyunsaturatedFatGrams":"0.2g",
+                "monounsaturatedFatGrams":"1.3g",
+                "cholesterolMilligrams":"0mg",
+                "cholesterolPercent":"0%",
+                "sodiumMilligrams":"40mg",
+                "sodiumPercent":"?%",
+                "totalCarbsGrams":"1.8g",
+                "totalCarbsPercent":"?%",                
+                "dietaryFiberGrams":"0.4g",
+                "dietaryFiberPercent":"?%",
+                "sugarsGrams":"1g",
+                "proteinGrams":"0.3g",
+                "vitaminDMicrograms":"0mcg",
+                "vitaminDPercent":"0%",
+                "calciumMilligrams":"5.3mg",
+                "calciumPercent":"?%",
+                "ironMilligrams":"0.1mg",
+                "ironPercent":"?%",
+                "potassiumMilligrams":"67mg",
+                "potassiumPercent":"?%",
+                "caffeineMilligrams":"0mg"
+            } 
+        },{        
             "title":"Generic recipe",
             "notes":"based on something",
             "ingredients": ["ingredient 1","ingredient 2"],
