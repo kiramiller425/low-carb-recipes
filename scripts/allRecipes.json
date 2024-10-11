@@ -289,6 +289,86 @@
                 "caffeineMilligrams":"0mg"
             } 
         },{        
+            "title":"Four Bean Chili",
+            "notes":"I\'ve made a lot of variations on this and they\'re all delicious. Freezes great too.",
+            "ingredients": ["1 Tablespoon garlic salt","2 Tablespoons dried oregano","1 Tablespoon olive oil","1 teaspoon cumin, ground","1 teaspoon coriander, ground","Two 15oz cans of tomato sauce (I used Safeway\'s Signature Select brand)","One 15oz can of black beans (I used Kroger brand)","One 15oz can Great Northern Beans (I used Great Value brand)","One 15oz can dark red kidney beans (I used Bush\'s brand)","One 15oz can Pinto Beans (I used Kroger brand)","2 cups of Vegetable Broth (I used Pacific Foods brand)","2 bay leaves"],
+            "tools": ["instant pot (or a slow cooker)","can opener","measuring spoons","measuring cups"],
+            "directions": ["Add everything except the bay leaves into the instant pot.","Stir well.","Then put the leaves on top of the chili.","Close the lid and press the Bean Chili option on the instant pot. Or cook in a slow cooker for at least 2 hours.","After it\'s done, take off lid, turn off cooker and let it cool a bit before serving.","It freezes really well!"],
+            "nutrition":{ "servingSize":"1/2 cup", "calories":"76", "totalFatGrams":"0.6g", "totalFatPercent":"?%", "saturatedFatGrams":"0.1g", "saturatedFatPercent":"?%", "transFatGrams":"0g", "polyunsaturatedFatGrams":"0.1g", "monounsaturatedFatGrams":"0.4g", "cholesterolMilligrams":"0mg", "cholesterolPercent":"?%", "sodiumMilligrams":"483mg", "sodiumPercent":"?%", "totalCarbsGrams":"14g", "totalCarbsPercent":"?%", "dietaryFiberGrams":"4g", "dietaryFiberPercent":"?%", "sugarsGrams":"2g", "proteinGrams":"4.5g", "vitaminDMicrograms":"0mcg", "vitaminDPercent":"?%", "calciumMilligrams":"44mg", "calciumPercent":"?%", "ironMilligrams":"1.3mg", "ironPercent":"?%", "potassiumMilligrams":"333mg", "potassiumPercent":"?%", "caffeineMilligrams":"0mg" } 
+            
+        },{        
+            "title":"Low Carb Chocolate Cake",
+            "notes":"This is based on a few recipes I found somewhere on the internet and then combined and modified. It turns out pretty good. I recommend spreading the Chocolate Butter Cream Cheese Frosting on top of it. Eat a slice with a Tablespoon of peanut butter for best results.",
+            "ingredients": ["1.5 cups almond flour","1/4 cup + 2 Tablespoons unsweetened cocoa powder (I recommend Ghiradelli)","2.25 teaspoons baking powder","1/2 teaspoon salt","1/3 cup granulated erythritol","1/3 cup 1 percent milk","3 large eggs","1.5 teaspoon vanilla extract","butter for greasing pan"],
+            "tools": ["an 8 inch round foil cake pan","oven","measuring cups and spoons","standing mixer like a KitchenAid or something"],
+            "directions": ["Preheat oven to 350 degrees F.","Grease the pan.","Mix all ingredients together into the standing mixer.","Pour the batter into the cake pan.","Bake for 14 minutes.","test it with a toothpick in the middle. If it is still wet, bake 3 more minutes. Repeat until a toothpick comes out clean.","Let it cool to room temperature before frosting (if you want)."],
+            "nutrition":{
+                "servingSize":"a slice that is 1/8 of the cake (NOT FROSTED)",
+                "calories":"199",
+                "totalFatGrams":"14g",
+                "totalFatPercent":"?%",
+                "saturatedFatGrams":"1.4g",
+                "saturatedFatPercent":"?%",
+                "transFatGrams":"0.01g",
+                "polyunsaturatedFatGrams":"3.4g",
+                "monounsaturatedFatGrams":"7.4g",
+                "cholesterolMilligrams":"70.1mg",
+                "cholesterolPercent":"?%",
+                "sodiumMilligrams":"288mg",
+                "sodiumPercent":"?%",
+                "totalCarbsGrams":"15g",
+                "totalCarbsPercent":"?%",
+                "dietaryFiberGrams":"3.7g",
+                "dietaryFiberPercent":"?%",
+                "sugarsGrams":"1.5g",
+                "proteinGrams":"8g",
+                "vitaminDMicrograms":"0.5mcg",
+                "vitaminDPercent":"?%",
+                "calciumMilligrams":"148mg",
+                "calciumPercent":"?%",
+                "ironMilligrams":"1.7mg",
+                "ironPercent":"?%",
+                "potassiumMilligrams":"242mg",
+                "potassiumPercent":"?%",
+                "caffeineMilligrams":"0mg"
+                } 
+            },{        
+            "title":"Chocolate Butter Cream Cheese Frosting",
+            "notes":"Based on several recipes I found online (I forgot the URLs). I modified to create this one to have far less sugar in it, giving it a richer taste that is still sweet. This will frost one 8 inch round cake.",
+            "ingredients": ["1/4 cup salted butter","4 oz (113.4g) cream cheese, softened","1/2 cup Swerve confectioners sweetener (that just means powdered swerve)","1/2 teaspoon vanilla extract","1/8 cup unsweetened cocoa powder (I recommend Ghiradelli brand)"],
+            "tools": ["microwave","regular sized microwavable bowl","a big standing mixer (like KitchenAid)","spatula","fridge","measuring spoons"],
+            "directions": ["Melt the butter in the bowl in the microwave for 15 seconds until it is softened but not liquid.","Pour it into the big standing mixer bowl.","Melt the cream cheese in the bowl in the microwave for 15 seconds until it is softened.","Pour it into the big standing mixer bowl.","Add the rest of the ingredients into the big standing mixer bowl.","Turn on the mixer to very low speed until everything is fully mixed.","Then turn up the speed to medium for at least 2 minutes to give the frosting a nice whipped texture. Up to you for how whipped you like it.","Turn off mixer and unplug for safety.","Use the spatula to remove the frosting from the mixing tool. Then frost a cake or whatever you like!"],
+            "nutrition":{
+                "servingSize":"1/8 of total frosting (about 8.5 teaspoons)",
+                "calories":"106.4",
+                "totalFatGrams":"11g",
+                "totalFatPercent":"?%",
+                "saturatedFatGrams":"6.7g",
+                "saturatedFatPercent":"?%",
+                "transFatGrams":"0.96g",
+                "polyunsaturatedFatGrams":"0.4g",
+                "monounsaturatedFatGrams":"2.8g",
+                "cholesterolMilligrams":"30.8mg",
+                "cholesterolPercent":"?%",
+                "sodiumMilligrams":"108.5mg",
+                "sodiumPercent":"?%",
+                "totalCarbsGrams":"9.3g",
+                "totalCarbsPercent":"?%",
+                "dietaryFiberGrams":"0.5g",
+                "dietaryFiberPercent":"?%",
+                "sugarsGrams":"0.5g",
+                "proteinGrams":"1.3g",
+                "vitaminDMicrograms":"0mcg",
+                "vitaminDPercent":"?%",
+                "calciumMilligrams":"14.3mg",
+                "calciumPercent":"?%",
+                "ironMilligrams":"0.2mg",
+                "ironPercent":"?%",
+                "potassiumMilligrams":"25.1mg",
+                "potassiumPercent":"?%",
+                "caffeineMilligrams":"0mg"
+                } 
+            },{        
             "title":"Generic recipe",
             "notes":"based on something",
             "ingredients": ["ingredient 1","ingredient 2"],
@@ -324,6 +404,5 @@
                 "potassiumPercent":"?%",
                 "caffeineMilligrams":"?mg"
             }
-        }
     ]
 }
